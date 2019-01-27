@@ -1,0 +1,10 @@
+.navbar-nav ul li {
+  display: inline;
+  margin: 10px;
+  font-weight: 800;
+  cursor:pointer;
+}
+
+.navbar-nav ul li:hover {
+  color:blue;
+}
